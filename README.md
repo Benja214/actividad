@@ -1,5 +1,5 @@
 # Gestor de contraseñas Seguro
-esta es un aplicación que garantiza la seguridad de sus contraseñas.
+Esta es un aplicación que garantiza la seguridad de sus contraseñas.
 
 
 ## Instalación
