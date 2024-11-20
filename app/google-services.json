@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258481846694",
+    "project_id": "actividadpass",
+    "storage_bucket": "actividadpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258481846694:android:8cfaf777b7aa22b10df767",
+        "android_client_info": {
+          "package_name": "com.example.actividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTlIix1nopoHHABvq8nF0YNUvG65-foA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
